@@ -34,5 +34,18 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+    
+    // gatsby-config.js
+// ...
+{
+    resolve: 'gatsby-source-google-sheets',
+    options: {
+        spreadsheetId: '1KoPRf7HzFFEV_B7imkkgnQaJH4nvABDcHjiEDhHOgG4',
+        worksheetTitle: 'Brands in DB',
+        credentials: require('./iconic-treat-353823-81bfad456c6d.json')
+    }
+},
+// ...
   ],
 }
+
