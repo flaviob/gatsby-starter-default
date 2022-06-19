@@ -31,6 +31,13 @@ const links = [
     description:
       "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Gatsby Cloud. Get started for free!",
   },
+   {
+    text: "Moar Stuffy ¯\_(ツ)_/¯",
+    url: "https://www.gatsbyjs.com/plugins",
+    description:
+      "Yep.com",
+  },
+ 
 ]
 
 const samplePageLinks = [
