@@ -45,7 +45,7 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   }
 
-  "scripts": {
-    "sheets": "gatsby-source-google-sheets"
+  "sheets": {
+    "url": "https://github.com/brandonmp/gatsby-source-google-sheets"
   }
 }
