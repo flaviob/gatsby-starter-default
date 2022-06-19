@@ -42,4 +42,6 @@
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   }
+  "GoogleSheets": "git+https://github.com/brandonmp/gatsby-source-google-sheets"
+
 }
