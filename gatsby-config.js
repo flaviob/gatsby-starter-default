@@ -8,6 +8,7 @@ module.exports = {
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
+    `gatsby-source-google-spreadsheets`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
